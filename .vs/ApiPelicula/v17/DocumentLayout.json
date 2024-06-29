@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Master API Curso\\ApiPelicula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F6E85E-6F1B-4DC5-8037-EEE9CFB27CFC}|ApiPelicula\\ApiPelicula.csproj|c:\\users\\lenovo\\desktop\\master api curso\\apipelicula\\apipelicula\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F6E85E-6F1B-4DC5-8037-EEE9CFB27CFC}|ApiPelicula\\ApiPelicula.csproj|solutionrelative:apipelicula\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F6E85E-6F1B-4DC5-8037-EEE9CFB27CFC}|ApiPelicula\\ApiPelicula.csproj|c:\\users\\lenovo\\desktop\\master api curso\\apipelicula\\apipelicula\\repositorio\\irepositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F6E85E-6F1B-4DC5-8037-EEE9CFB27CFC}|ApiPelicula\\ApiPelicula.csproj|solutionrelative:apipelicula\\repositorio\\irepositorio\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F6E85E-6F1B-4DC5-8037-EEE9CFB27CFC}|ApiPelicula\\ApiPelicula.csproj|c:\\users\\lenovo\\desktop\\master api curso\\apipelicula\\apipelicula\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F6E85E-6F1B-4DC5-8037-EEE9CFB27CFC}|ApiPelicula\\ApiPelicula.csproj|solutionrelative:apipelicula\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Master API Curso\\ApiPelicula\\ApiPelicula\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPelicula\\Repositorio\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Master API Curso\\ApiPelicula\\ApiPelicula\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "ApiPelicula\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T18:24:32.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Master API Curso\\ApiPelicula\\ApiPelicula\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ApiPelicula\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Master API Curso\\ApiPelicula\\ApiPelicula\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ApiPelicula\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwNcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:59:32.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Master API Curso\\ApiPelicula\\ApiPelicula\\Repositorio\\IRepositorio\\ICategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPelicula\\Repositorio\\IRepositorio\\ICategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Master API Curso\\ApiPelicula\\ApiPelicula\\Repositorio\\IRepositorio\\ICategoriaRepositorio.cs",
+              "RelativeToolTip": "ApiPelicula\\Repositorio\\IRepositorio\\ICategoriaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T17:46:03.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
